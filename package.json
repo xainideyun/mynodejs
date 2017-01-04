@@ -1,0 +1,23 @@
+{
+  "name": "mynodejs",
+  "version": "1.0.1",
+  "description": "我的第二个nodejs应用",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xainideyun/mynodejs.git"
+  },
+  "keywords": [
+    "sunxsh",
+    "node"
+  ],
+  "author": "dancy sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xainideyun/mynodejs/issues"
+  },
+  "homepage": "https://github.com/xainideyun/mynodejs#readme"
+}
